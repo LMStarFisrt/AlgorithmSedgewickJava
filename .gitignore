@@ -1,3 +1,6 @@
 .idea/
-
+.settings/
 AlgorithmSedgewickJava.iml
+/bin/
+.classpath
+.project

@@ -24,6 +24,6 @@ public class GCD {
         System.out.println("请输入第二个数：");
         int q=scanner.nextInt();
         System.out.println("最大公约数为："+gcd(p,q));
-
+        scanner.close();
     }
 }
