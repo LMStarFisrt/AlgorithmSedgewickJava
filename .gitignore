@@ -2,5 +2,6 @@
 .settings/
 AlgorithmSedgewickJava.iml
 /bin/
+/out/
 .classpath
 .project
