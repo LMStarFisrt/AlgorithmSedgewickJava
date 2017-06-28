@@ -1,6 +1,7 @@
 package Fundamentals.BasicProgModel;
 
 /**
+ * 将正整数N转换为二进制，用字符串表示
  * Created by dadisdad on 2017/6/26.
  */
 public class Exce_1_1_9 {
