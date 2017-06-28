@@ -24,8 +24,8 @@ public class Exec_1_1_11 {
                     StdOut.print((i + 1) + "       ");
                 }
             } else {
-                for (int k = 0; k < a[j-1].length; k++) {
-                    if (a[j-1][k]) {
+                for (int k = 0; k < a[j - 1].length; k++) {
+                    if (a[j - 1][k]) {
                         StdOut.print("true" + "  ");
                     } else {
                         StdOut.print("false" + "  ");
